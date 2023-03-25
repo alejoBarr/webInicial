@@ -1,0 +1,40 @@
+:root {
+    --naranja: hsl(26, 100%, 55%);
+    --naranjapalido: hsl(25, 100%, 94%);
+    --azuloscuro:hsl(220, 13%, 13%);
+    --Azulgris_oscuro: hsl(219, 9%, 45%);
+    --Azulgris: hsl(220, 14%, 75%);
+    --azulgrisclaro: hsl(223, 64%, 98%);
+    --blanco: hsl(0, 0%, 100%);
+    --negro:  hsl(0, 0%, 0%);
+
+}
+
+body{
+
+    font-family: 'Raleway', sans-serif;
+   
+}
+ .navbar-brand{
+    font-weight: bold;
+    font-size: 2rem;
+ }
+.nav-item{
+    padding-left: 0.5rem;
+    transition: all 0.3s ease-out;
+}
+
+.nav-link{
+    color: var(--naranja);
+}
+
+ .nav-item:hover {
+    background-color: var(--naranjapalido);
+ }
+ a{
+    color: var(--naranja);
+
+ }
+ a:hover{
+    color: var(--blanco);
+ }

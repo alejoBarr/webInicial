@@ -1,0 +1,29 @@
+
+
+h1{
+ font-size: 40;
+ font-family: 'Raleway', sans-serif;
+ text-align: center
+}
+
+
+
+form {
+  margin-bottom: 20px;
+  
+
+
+}
+
+#step-2 {
+  display: none;
+ 
+}
+
+#summary {
+  border: 10px solid #0f56da;
+  padding: 20px;
+  
+}
+
+

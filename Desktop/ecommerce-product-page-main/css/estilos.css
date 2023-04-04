@@ -30,11 +30,31 @@ body{
 
  .nav-item:hover {
     background-color: var(--naranjapalido);
+   
  }
  a{
     color: var(--naranja);
 
  }
  a:hover{
-    color: var(--blanco);
+    color: var(--azuloscuro);
+    background-color: var(--naranjapalido);
+
  }
+
+ .btn{
+    background-color: var(--naranja);
+ }
+
+ .btn:hover{
+
+   background-color: var(--azuloscuro);}
+
+   .card-text{
+      color: var(--azuloscuro);
+   }
+
+   .card-title{
+      color: var(--negro);
+
+   }

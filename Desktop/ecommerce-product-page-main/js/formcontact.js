@@ -1,3 +1,4 @@
+// Aporte de José Alejandro Barrios
 $(document).ready(function() {
     $("#contact_form").validate({
       rules: {
